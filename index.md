@@ -56,6 +56,8 @@ read any of the other things, such as
 - [Testing your site locally](pages/local_test.html)
 - [Resources](pages/resources.html)
 
+testing a picture... 
+![](assets/2Degree1.png)
 If anything here is confusing (or _wrong_!), or if I've missed
 important details, please
 [submit an issue](https://github.com/kbroman/simple_site/issues), or (even
