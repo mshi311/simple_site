@@ -57,6 +57,7 @@ read any of the other things, such as
 - [Resources](pages/resources.html)
 - [R code](assets/lab_end.R)
 
+
 testing a picture... 
 ![](assets/2Degree1.png)
 If anything here is confusing (or _wrong_!), or if I've missed
