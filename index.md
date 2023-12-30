@@ -55,6 +55,7 @@ read any of the other things, such as
 - [Making a jekyll-free site](pages/nojekyll.html)
 - [Testing your site locally](pages/local_test.html)
 - [Resources](pages/resources.html)
+- [R code](assets/lab_end.R)
 
 testing a picture... 
 ![](assets/2Degree1.png)
